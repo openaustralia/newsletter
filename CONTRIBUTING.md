@@ -17,6 +17,4 @@ We're aiming for 50% of things in the newsletter to be from or about the Asia-Pa
 
 Each month we create a pull request on this repo that contains the newsletter for that month.
 
-It will include a bunch of issues, i.e. stories or links (hopefully including some you've contributed!).
-
-When the pull request is merged, i.e. it's ready to publish, those issues will be automagically closed by GitHub's Pull Request Magic :tm:
+It will mention a bunch of issues, i.e. stories or links (hopefully including some you've contributed!) which means that when the pull request is merged, i.e. it's ready to publish, those issues will be automagically closed by GitHub's Pull Request Magic :tm:
