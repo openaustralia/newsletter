@@ -10,3 +10,10 @@
 * let them know about events they can go to
 
 The newsletter is sent out the Thursday before the [OpenAustralia Foundation meetup](http://www.meetup.com/OpenAustralia-Foundation/), which is usually held on the last Tuesday of the month.
+
+## Principles
+
+These are the principles that guide the development and editorial direction of this project:
+
+* People are smart *and* busy
+* Humans respond to humans, so have fun
