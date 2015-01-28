@@ -2,7 +2,7 @@
 
 *Civic Tech Monthy* is a email newsletter produced by the [OpenAustralia Foundation](oaf.org.au) **for people who are interested in development of technology that empowers people to change their society**. The jobs that this newsletter should do for these people include:
 
-* provide examples of how technology is being to enable civic change, that they weren't previously aware of
+* provide examples of how technology is being used to enable civic change, that they weren't previously aware of
 * connect them to other people interested in the things that they are interested in
 * reassure them of the positive impact these projects can have
 * give them interesting things to read
