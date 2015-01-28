@@ -2,7 +2,7 @@
 
 Yay! Thanks for your interest in contributing to the newsletter :bouquet:
 
-Submit an issue with anything civic tech related and we'll look at including it in an upcoming issue (no pun intended) of the newsletter.
+Submit an issue with anything civic tech related and we'll look at including it in an upcoming edition of the newsletter.
 
 We love to hear about:
 
@@ -15,6 +15,6 @@ We're aiming for 50% of things in the newsletter to be from or about the Asia-Pa
 
 ## How we prepare an issue of the newsletter
 
-Each month we create a pull request on this repo that contains the newsletter for that month.
+Each month we create new a pull request on this repo that includes a Markdown file containing the content for that month’s newsletter.
 
-It will mention a bunch of issues, i.e. stories or links (hopefully including some you've contributed!) which means that when the pull request is merged, i.e. it's ready to publish, those issues will be automagically closed by GitHub's Pull Request Magic :tm:
+The description of the pull request will mention issues that have been lodged containing stories/links for that newsletter—hopefully including some you've contributed! When the newsletter content is finalised the pull request is merged and the mentioned issues will be automagically closed by GitHub's Pull Request Magic :tm:. We then copy that content over to the [OpenAustralia Foundation blog](https://www.openaustraliafoundation.org.au/blog/) and into Mailchimp. Finally the newsletter is lovelingly delivered to the inboxes of amazing people using technology to enable civic change.
