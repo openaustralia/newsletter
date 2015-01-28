@@ -18,3 +18,4 @@ These are the principles that guide the development and editorial direction of t
 * People are smart *and* busy
 * Humans respond to humans, so have fun
 * Knowledge and inspiration provide leverage for action
+* Diversity supports resilience and creates opportunities
