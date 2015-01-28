@@ -21,3 +21,9 @@ These are the principles that guide the development and editorial direction of t
 * Humans respond to humans, so have fun
 * Knowledge and inspiration provide leverage for action
 * Diversity supports resilience and creates opportunities
+
+## Inspiration
+
+* [Opening Parliament Newsbrief](http://blog.openingparliament.org/)
+* [Web Directions](http://www.webdirections.org/newsletter/)
+* [Nieman Lab updates](http://www.niemanlab.org/subscribe/)
