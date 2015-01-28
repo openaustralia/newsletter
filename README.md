@@ -9,7 +9,7 @@
 * provide them with projects that they can use themselves
 * let them know about events they can go to
 
-The newsletter is sent out the Thursday before the [OpenAustralia Foundation meetup](http://www.meetup.com/OpenAustralia-Foundation/), which is usually held on the last Tuesday of the month.
+The newsletter is sent out the Thursday before the [OpenAustralia Foundation meetup](http://www.meetup.com/OpenAustralia-Foundation/), which is held on the last Tuesday of the month.
 
 ## Principles
 
