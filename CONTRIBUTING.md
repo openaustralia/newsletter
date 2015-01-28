@@ -11,7 +11,7 @@ We love to hear about:
 * Important policy news that relates to civic tech, e.g. transparency or FOI related issues
 * And anything else related (if you're not sure, just submit something anyway)
 
-We're aiming for 50% of things in the newsletter to be from or about the Asia-Pacific region and half of that from Australia.
+We're aiming for 50% of things in the newsletter to be from or about the Asia-Pacific region and half of that from Australia. We want to promote and support our local civic tech community in particular—there are other excellent newsletters that have a broad global focus.
 
 ## How we prepare an issue of the newsletter
 
