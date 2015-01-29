@@ -4,6 +4,8 @@
 
 An email newsletter produced by the [OpenAustralia Foundation](oaf.org.au) **for people who are interested in development of technology that empowers people to change their society**. Sounds like you? [**Subscribe**](http://eepurl.com/bcE0DX]).
 
+Please [contribute your treasured links from this month by submitting an issue](https://github.com/openaustralia/newsletter/issues/new?title=[ITEM]).
+
 The jobs that this newsletter should do for these people include:
 
 * provide examples of how technology is being used to enable civic change, that they weren't previously aware of
