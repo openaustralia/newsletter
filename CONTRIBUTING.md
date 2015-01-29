@@ -20,7 +20,7 @@ If you feel like you need more than three short sentences to describe why your l
 
 We use pull requests to manage the production of the newsletter so you'll be notified when it's included.
 
-We love to hear about:
+The readers of our newsletter love to hear about:
 
 * Great civic tech projects
 * Exciting features on those projects
