@@ -1,4 +1,4 @@
-# Civic Tech Monthy
+# Civic Tech Monthly
 
 (Working title: https://github.com/openaustralia/newsletter/issues/1)
 
