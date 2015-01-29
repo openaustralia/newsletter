@@ -2,7 +2,7 @@
 
 Yay! Thanks for your interest in contributing to the newsletter :bouquet:
 
-Submit an issue with anything civic tech related and we'll look at including it in an upcoming edition of the newsletter.
+[Submit an issue](https://github.com/openaustralia/newsletter/issues/new?title=[ITEM]) with anything civic tech related and we'll look at including it in an upcoming edition of the newsletter. Begin the issue’s title with “[ITEM]”.
 
 In the issue provide:
 
