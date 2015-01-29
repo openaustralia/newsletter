@@ -17,6 +17,8 @@ The jobs that this newsletter should do for these people include:
 
 The newsletter is sent out the Thursday before the [OpenAustralia Foundation meetup](http://www.meetup.com/OpenAustralia-Foundation/), which is held on the last Tuesday of the month.
 
+The Civic Tech Monthly is available for you to share, remix, mashup and whatever else you can come up with under a [Creative Commons Attribution-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-sa/4.0/).
+
 ## Principles
 
 These are the principles that guide the development and editorial direction of this project:

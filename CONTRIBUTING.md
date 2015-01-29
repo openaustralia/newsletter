@@ -14,3 +14,5 @@ The readers of our newsletter love to hear about:
 * And anything else related (if you're not sure, just submit something anyway)
 
 We're aiming for 50% of things in the newsletter to be from or about the Asia-Pacific region and half of that from Australia. We want to promote and support our local civic tech community in particular—there are other excellent newsletters that have a broad global focus.
+
+Please note that the Civic Tech Monthly—your contributions included—is licensed under a [Creative Commons Attribution-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-sa/4.0/).
