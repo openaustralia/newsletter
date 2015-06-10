@@ -23,7 +23,7 @@ These are the principles that guide the development and editorial direction of t
 
 * People are smart *and* busy
 * Humans respond to humans, so have fun
-* Diversity supports resilience and creates opportunities
+* Promote a diverse civic tech community because it’s better for everyone
 
 We're aiming for 50% of things in the newsletter to be from or about the Asia-Pacific region and half of that from Australia. We want to promote and support our local civic tech community in particular—there are other excellent newsletters that have a broad global focus.
 
