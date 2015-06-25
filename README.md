@@ -32,3 +32,14 @@ We're aiming for 50% of things in the newsletter to be from or about the Asia-Pa
 * [Opening Parliament Newsbrief](http://blog.openingparliament.org/)
 * [Web Directions](http://www.webdirections.org/newsletter/)
 * [Nieman Lab updates](http://www.niemanlab.org/subscribe/)
+
+## HOWTO
+
+Here's what you need to do when publishing an edition. TODO: add more details :)
+
+* Aim for 10 items
+* Prepare the PR
+* Get it merged
+* Publish to Mailchimp
+* Publish to blog
+* Tweet
