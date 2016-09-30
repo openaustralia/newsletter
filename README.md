@@ -1,10 +1,8 @@
-# Civic Tech Monthly [![Stories in next edition](https://badge.waffle.io/openaustralia/newsletter.svg?label=next%20edition&title=Next%20edition)](http://waffle.io/openaustralia/newsletter)
+# Civic Tech Monthly (Feb 2015 - Nov 2015)
 
-An email newsletter produced by the [OpenAustralia Foundation](http://oaf.org.au) **for people who are interested in development of technology that empowers people to change their society**. Sounds like you? [**Subscribe**](http://eepurl.com/bcE0DX).
+This was an email newsletter produced by the [OpenAustralia Foundation](http://oaf.org.au) **for people who are interested in development of technology that empowers people to change their society**. It had [10 editions](https://github.com/openaustralia/newsletter/tree/master/editions) between Feburary 2015 and November 2015.
 
-Please [contribute your treasured links from this month by submitting an issue](https://github.com/openaustralia/newsletter/issues/new?title=[ITEM]).
-
-The jobs that this newsletter should do for these people include:
+The jobs that this newsletter aimed to do for people include:
 
 * provide examples of how technology is being used to enable civic change, that they weren't previously aware of
 * connect them to other people interested in the things that they are interested in
@@ -13,7 +11,7 @@ The jobs that this newsletter should do for these people include:
 * provide them with projects that they can use themselves
 * let them know about events they can go to
 
-The newsletter is sent out the Thursday before the [OpenAustralia Foundation meetup](http://www.meetup.com/OpenAustralia-Foundation/), which is held on the last Tuesday of the month.
+The newsletter was sent out the Thursday before the [OpenAustralia Foundation meetup](http://www.meetup.com/OpenAustralia-Foundation/), which is held on the last Tuesday of the month.
 
 The Civic Tech Monthly is available for you to share, remix, mashup and whatever else you can come up with under a [Creative Commons Attribution-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-sa/4.0/).
 
