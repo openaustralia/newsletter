@@ -1,3 +1,7 @@
+> [!WARNING]
+> This project has been archived because we are not actively maintaining nor using it. It hasn't seen activity since September 2016 and may have known security vulnerabilities that have not been addressed. If you would like to move this work forward, please do! If we get enough interest, we might reconsider working on this again. You can always donate to provide us with more resources.
+
+Note: I (@benrfairless) used AI to assist with the process of archiving this repository, however I reviewed the decision myself before taking action.
 # Civic Tech Monthly (Feb 2015 - Nov 2015)
 
 This was an email newsletter produced by the [OpenAustralia Foundation](http://oaf.org.au) **for people who are interested in development of technology that empowers people to change their society**. It had [10 editions](https://github.com/openaustralia/newsletter/tree/master/editions) between Feburary 2015 and November 2015.
